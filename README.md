@@ -22,7 +22,7 @@ Users should be able to:
 - Hide/Show the answer to a question when the question is clicked
 
 ### Screenshot
-![Screenshot of the FAQ accordion Card](images/Screenshot.jpg)
+![Screenshot of the FAQ accordion Card](images/Screenshot.JPG)
 ### Links
 
 - Solution URL: https://njabz-1.github.io/FAQ-accordion-card/
